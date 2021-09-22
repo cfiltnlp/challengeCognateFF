@@ -40,7 +40,7 @@ Please use the following citation while citing the LREC 2020 work:
 }
 ```
 
-Please use the following citation while citing the LREC 2020 work:
+Please use the following citation while citing the COLING 2020 work:
 
 ```latex
 @inproceedings{kanojia-etal-2020-harnessing,
