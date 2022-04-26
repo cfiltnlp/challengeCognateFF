@@ -2,6 +2,13 @@
 
 # Cognate Detection Task - Data & Code Repository
 
+[![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/challengeCognateFF?style=flat-square)](https://github.com/cfiltnlp/challengeCognateFF/issues)
+[![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/challengeCognateFF?style=flat-square)](https://github.com/cfiltnlp/challengeCognateFF/network)
+[![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/challengeCognateFF?style=flat-square)](https://github.com/cfiltnlp/challengeCognateFF/stargazers)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%20--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cfiltnlp?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/cfiltnlp)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PeopleCentredAI?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/PeopleCentredAI)
+
 ## Details
 
 This repository contains the data for two publications:
