@@ -1,3 +1,5 @@
+<p align="center"><img src="cfilt-dark-logo.png" alt="Computation for Indian Language Technology Logo" width="150" height="150"/></p>
+
 # Cognate Detection Repository
 
 ## Details
